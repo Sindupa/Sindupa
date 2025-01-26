@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sindupa Ekanayake</h1>
 <h3 align="center">Passionate Student | Aspiring Developer</h3>
 
+- 🎓 Currently Studying Computer Science and Artificial Intelligence at [NIBM].
+
+- 🛠️ My Work Ethic “Clean code, creative solutions, constant learning, and teamwork.”
+
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sindupa](https://github.com/Sindupa)
 
 - 📫 How to reach me **sindupaekanayake03@gmail.com**
 
+- ⚡ Fun fact “I’m not lazy; I just automate my work!”
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sindupa ekanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sindupa ekanayake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sindupaekanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sindupa ekanayake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
