@@ -5,7 +5,7 @@
 
 - 🛠️ My Work Ethic “Clean code, creative solutions, constant learning, and teamwork.”
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Deep Learning and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sindupa](https://github.com/Sindupa)
 
