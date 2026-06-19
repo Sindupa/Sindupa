@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Deep Learning and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sindupa](https://github.com/Sindupa)
-
 - 📫 How to reach me **sindupaekanayake03@gmail.com**
 
 - ⚡ Fun fact “I’m not lazy; I just automate my work!”
