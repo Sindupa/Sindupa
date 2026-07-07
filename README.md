@@ -3,8 +3,6 @@
 
 - 🎓 Currently Studying Computer Science and Artificial Intelligence at [NIBM].
 
-- 🛠️ My Work Ethic “Clean code, creative solutions, constant learning, and teamwork.”
-
 - 🌱 I’m currently learning **Deep Learning and Machine Learning**
 
 - 📫 How to reach me **sindupaekanayake03@gmail.com**
