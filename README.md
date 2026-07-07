@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Deep Learning and Machine Learning**
 
-- 📫 How to reach me **sindupaekanayake03@gmail.com**
-
 - ⚡ Fun fact **“I’m not lazy; I just automate my work!”**
 
 <h3 align="left">Connect with me:</h3>
