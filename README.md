@@ -3,8 +3,6 @@
 
 - 🎓 Currently Studying **Computer Science and Artificial Intelligence at [NIBM]**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sindupa](https://github.com/Sindupa)
-
 - 🌱 I’m currently learning **Deep Learning and Machine Learning**
 
 - ⚡ Fun fact **“I’m not lazy; I just automate my work!”**
